@@ -1,0 +1,11 @@
+.Card{
+   width: 200px;
+   margin: auto;
+   border-color: orangered;
+   border-width: 2px ;
+   border-radius: 15px;
+   border-style: solid ;
+}
+.name{
+  
+}
